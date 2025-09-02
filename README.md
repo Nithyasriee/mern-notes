@@ -25,6 +25,19 @@ Built using **React, TailwindCSS, and DaisyUI**, it provides a clean and respons
 - **Database:** (Add your DB here, e.g., MongoDB / PostgreSQL / Upstash Redis)
 
 ---
+## 📸 Screenshot
+
+![Memoir Notes Screenshot](https://github.com/user-attachments/assets/89508297-81bf-4c80-8507-721ea03142ca)
+
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/user-attachments/assets/f2dfed63-6d3b-4801-8108-5595873ce0e8)
+
+
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
 
 ## 📂 Project Setup
 
@@ -46,14 +59,3 @@ Run the development server:
 
 npm run dev
 
-## 📸 Screenshot
-
-![Memoir Notes Screenshot](https://github.com/user-attachments/assets/89508297-81bf-4c80-8507-721ea03142ca)
-
-## 📸 Screenshot
-
-![App Screenshot](https://github.com/user-attachments/assets/f2dfed63-6d3b-4801-8108-5595873ce0e8)
-
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork the repo and submit a pull request.
